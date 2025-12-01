@@ -29,6 +29,14 @@ export const TEAM = [
         name: "Soni Shrestha",
         position: "Don",
         path: "/images/soni.png"
+    },{
+        name: "Aishwarya Shrestha",
+        position: "Don ko mummy",
+        path: "/images/aishwarya.png"
+    },{
+        name: "Shisir Chauhan",
+        position: "Don ko papa",
+        path: "/images/shisir.png"
     }
 
 ]
