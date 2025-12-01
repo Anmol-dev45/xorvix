@@ -25,6 +25,10 @@ export const TEAM = [
         name: "Sanjeev Shrestha",
         position: "CMO and Co-founder",
         path: "/images/sanjeev.png"
+    },{
+        name: "Soni Shrestha",
+        position: "Don",
+        path: "/images/soni.png"
     }
 
 ]
