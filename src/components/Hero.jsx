@@ -21,7 +21,7 @@ const Hero = () => {
                     <p className='font-ubuntu text-justify md:pl-1'>Pioneering Tomorrow's Possibilities. We blend innovation and expertise to engineer solutions that redefine industries. With a passion for excellence, we create a future where ideas become reality. Join us on a journey to transform the world through technology and imagination.</p>
                     <a href="#about">
                         <button className="btn mt-6 lg:mt-8">
-                            About Us
+                            Shisir
                         </button>
                     </a>
 
